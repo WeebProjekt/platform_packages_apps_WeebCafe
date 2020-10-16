@@ -18,4 +18,5 @@
 <resources>
      <color name="weeb_cardview">#212121</color>
      <color name="weeb_cardtext">#FFFFFF</color>
+      <color name="weeb_icsettings">#000000</color>
 </resources>
