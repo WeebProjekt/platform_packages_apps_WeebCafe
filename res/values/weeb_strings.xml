@@ -116,5 +116,7 @@
     <string name="network_traffic_state_sb_summary">Keep showing net activity also in normal statusbar</string>
     <string name="network_traffic_autohide_threshold_title">Net activity autohide threshold (KB/s)</string>
 
-
+    <!-- Volume panel on left switch -->
+    <string name="volume_panel_on_left_title">Show volume panel on left</string>
+    
 </resources>
