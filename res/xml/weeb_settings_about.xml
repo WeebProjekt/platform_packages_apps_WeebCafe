@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2020 xyzscape prjkt
+      Copyright (C) 2020 WeebPrjkt
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ -->
+
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
+    android:title="@string/weeb_about_title" >
+
+    <!-- About WeebProjekt -->
+    <PreferenceCategory
+        android:key="weeb_about_summary"
+        android:title="@string/weeb_about_summary">
+
+        <Preference
+            android:summary="@string/weeb_about_info_summary" />
+
+        <Preference
+            android:title="@string/weeb_telegram_title"
+	          android:summary="@string/weeb_telegram_summary">
+	            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://t.me/WeebProjekt" />
+        </Preference>
+
+        <Preference
+            android:title="@string/weeb_github_title"
+            android:summary="@string/weeb_github_summary">
+	            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.github.com/WeebProjekt" />
+        </Preference>
+    </PreferenceCategory>
+
+	<!-- Our Beloved Team -->
+    <PreferenceCategory
+        android:key="about_team"
+        android:title="@string/weeb_about_team">
+
+        <Preference
+          android:title="@string/weeb_about_faham"
+	        android:summary="@string/weeb_about_faham_summary">
+	            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.github.com/faham1997" />
+        </Preference>
+
+        <Preference
+          android:title="@string/weeb_about_xyzuan"
+	        android:summary="@string/weeb_about_xyzuan_summary">
+	            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://www.github.com/xyzuan" />
+        </Preference>
+
+        <Preference
+          android:title="@string/weeb_about_owlien"
+          android:summary="@string/weeb_about_owlien_summary"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

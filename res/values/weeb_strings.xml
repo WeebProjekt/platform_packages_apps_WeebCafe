@@ -21,6 +21,24 @@
     <string name="weeb_settings_title">WeebsX</string>
     <string name="weeb_dashboard_summary">ahhhh something onichannn.</string>
 
+    <!-- About WeebProjekt -->
+    <string name="weeb_about_title">WeebProjekt ウィーブについて</string>
+    <string name="weeb_about_summary">Some information about the projekt</string>
+    <string name="weeb_telegram_title">WeebProjekt Telegram Update</string>
+    <string name="weeb_telegram_summary">Tap here to get our latest updates!</string>
+    <string name="weeb_github_title">WeebProjekt GitHub</string>
+    <string name="weeb_github_summary">Tap here to open our Github!</string>
+    <string name="weeb_about_info_summary">AOSP に基づく. 素晴らしいウィーブ体験に基づいてうまくいけば、それはあなたが家にいるように感じるようになります</string>
+
+    <!-- Beloved Weeb Team -->
+    <string name="weeb_about_team">WeebPrjkt Team</string>
+    <string name="weeb_about_faham" translatable="false">Nafid Faham</string>
+    <string name="weeb_about_faham_summary" translatable="false">Founder - Lead Developers</string>
+    <string name="weeb_about_xyzuan" translatable="false">xyzuan</string>
+    <string name="weeb_about_xyzuan_summary" translatable="false">Co-Lead Developers</string>
+    <string name="weeb_about_owlien" translatable="false">OwlienG</string>
+    <string name="weeb_about_owlien_summary" translatable="false">Designer</string>
+
     <!-- Categories Title -->
     <string name="button_title">Buttons</string>
     <string name="gestures_title">Gestures</string>
@@ -31,6 +49,7 @@
     <string name="quicksettings_title">Quick Settings</string>
     <string name="statusbar_title">Status Bar</string>
     <string name="notifications_title">Notifications</string>
+    <string name="weeb_title">About WeebProjekt</string>
 
     <!-- Categories Summary -->
     <string name="button_summary">Botan ボタン</string>
@@ -42,6 +61,7 @@
     <string name="quicksettings_summary">Kuikku settei クイック設定</string>
     <string name="statusbar_summary">Sutētasubā ステータスバー</string>
     <string name="notifications_summary">Tsūchi 通知</string>
+    <string name="weeb_summary">About ウィーブについて</string>
 
 
     <!-- Global Actions -->

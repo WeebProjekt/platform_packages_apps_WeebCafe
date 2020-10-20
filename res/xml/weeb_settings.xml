@@ -95,4 +95,13 @@
             android:summary="@string/misc_summary"
             android:fragment="com.weeb.settings.fragments.MiscSettings"
             android:icon="@drawable/ic_settings_misc"/>
+
+        <!-- About -->
+        <com.weeb.settings.preferences.CardviewPreference
+            android:key="about_category"
+            android:title="@string/weeb_title"
+            android:summary="@string/weeb_summary"
+            android:fragment="com.weeb.settings.fragments.AboutSettings"
+            android:icon="@drawable/ic_settings_weeb2"/>
+
 </PreferenceScreen>

@@ -25,18 +25,20 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Ekusutora エクストラ"
+            android:text="Extra エクストラ"
             android:textSize="42sp"
             android:textColor="@color/weeb_cardtext"
-            android:layout_margin="25dp"/>
+            android:layout_margin="25dp"
+            android:fontFamily="google-sans"/>
         
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="there is some moarr extras settings."
+            android:text="there is some moar extras settings."
             android:textColor="@color/weeb_cardtext"
             android:textSize="17sp"
             android:layout_marginTop="-25dp"
             android:layout_marginLeft="25dp"
-	    android:layout_marginBottom="15dp"/>
+	        android:layout_marginBottom="15dp"
+            android:fontFamily="google-sans"/>
 </LinearLayout>
