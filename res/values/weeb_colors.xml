@@ -16,7 +16,7 @@
     limitations under the License.
 -->
 <resources>
-     <color name="weeb_cardview">#EEEEEE</color>
+     <color name="weeb_cardview">#FCFCFC</color>
      <color name="weeb_cardtext">#000000</color>
      <color name="weeb_icsettings">#FFFFFF</color>
 </resources>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright © 2020 WeebProjekt
+    Copyright © 2020 xyzscape prjkt
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- WeebsX -->
+    <string name="weeb_settings_title">WeebsX</string>
+    <string name="weeb_dashboard_summary">ahhhh sesuatu yang enak.</string>
+
+    <!-- About WeebProjekt -->
+    <string name="weeb_about_title">WeebProjekt ウィーブについて</string>
+    <string name="weeb_about_summary">Beberapa informasi tentang projekt</string>
+    <string name="weeb_telegram_title">WeebProjekt Telegram Update</string>
+    <string name="weeb_telegram_summary">Tekan disini untuk mendapatkan informasi update!</string>
+    <string name="weeb_github_title">WeebProjekt GitHub</string>
+    <string name="weeb_github_summary">Tekan disini untuk pergi ke source kita!</string>
+    <string name="weeb_about_info_summary">AOSP に基づく. 素晴らしいウィーブ体験に基づいてうまくいけば、それはあなたが家にいるように感じるようになります</string>
+
+    <!-- Beloved Weeb Team -->
+    <string name="weeb_about_team">WeebPrjkt Team</string>
+    <string name="weeb_about_faham" translatable="false">Nafid Faham</string>
+    <string name="weeb_about_faham_summary" translatable="false">Founder - Lead Developers</string>
+    <string name="weeb_about_xyzuan" translatable="false">xyzuan</string>
+    <string name="weeb_about_xyzuan_summary" translatable="false">Co-Lead Developers</string>
+    <string name="weeb_about_owlien" translatable="false">OwlienG</string>
+    <string name="weeb_about_owlien_summary" translatable="false">Designer</string>
+
+    <!-- Categories Title -->
+    <string name="button_title">Tombol</string>
+    <string name="gestures_title">Gestur</string>
+    <string name="lockscreen_title">Layar Kunci</string>
+    <string name="misc_title">Lainnya</string>
+    <string name="navbar_title">Navigasi Bar</string>
+    <string name="powermenu_title">Menu Daya</string>
+    <string name="quicksettings_title">Pengaturan Cepat</string>
+    <string name="statusbar_title">Status Bar</string>
+    <string name="notifications_title">Notifikasi</string>
+    <string name="weeb_title">Tentang WeebProjekt</string>
+
+    <!-- Categories Summary -->
+    <string name="button_summary">Botan ボタン</string>
+    <string name="gestures_summary">Jesuchā ジェスチャー</string>
+    <string name="lockscreen_summary">Rokku gamen ロック画面</string>
+    <string name="misc_summary">Sonohoka その他</string>
+    <string name="navbar_summary">Nabigēshonbā ナビゲーションバー</string>
+    <string name="powermenu_summary">Dengen menyū 電源メニュー</string>
+    <string name="quicksettings_summary">Kuikku settei クイック設定</string>
+    <string name="statusbar_summary">Sutētasubā ステータスバー</string>
+    <string name="notifications_summary">Tsūchi 通知</string>
+    <string name="weeb_summary">About ウィーブについて</string>
+
+
+    <!-- Global Actions -->
+    <string name="global_actions_title">Menu Daya</string>
+    <string name="global_actions_summary">Pilih apa saja yang akan ditampilkan di menu daya</string>
+    <string name="global_actions_power">Power</string>
+    <string name="global_actions_restart">Restart</string>
+    <string name="global_actions_airplane">Airplane</string>
+    <string name="global_actions_settings">Settings</string>
+    <string name="global_actions_lockdown">Lock Down</string>
+    <string name="global_actions_soundpanel">Sound Panel</string>
+    <string name="global_actions_users">Users</string>
+    <string name="global_actions_screenshot">Screenshot</string>
+    <string name="global_actions_screenrecord">Screenrecord</string>
+    <string name="global_actions_flashlight">Flashlight</string>
+    <string name="global_actions_emergency">Emergency</string>
+    <string name="global_actions_advanced_reboot_title">Enable advanced restart</string>
+    <string name="global_actions_advanced_reboot_summary">When restarting also show options for recovery and bootloader</string>
+    <string name="global_actions_max_columns_title">Max actions to show</string>
+    <string name="global_actions_max_columns_summary">Set how many actions to show before buttons move to overflow menu</string>
+
+    <!--Double Tap to Sleep -->
+    <string name="double_tap_gestures_category_title">Gesture ketuk dua kali</string>
+    <string name="double_tap_sleep_gesture_title">Ketuk dua kali pada status bar untuk tidut</string>
+    <string name="double_tap_sleep_lockscreen_title">Ketuk dua kali pada kunci layar untuk tidur</string>
+
+    <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Gesture Layar</string>
+    <string name="three_finger_gesture_summary">Usap tiga jari untuk tangkap layar</string>
+
+    <!-- Media art -->
+    <string name="lockscreen_media_art_title">Media art</string>
+    <string name="lockscreen_media_art_summary">Menampilkan album media pada layar kunci</string>
+
+    <!-- Brightness slider -->
+    <string name="qs_show_brightness_title">Panel Cahaya</string>
+    <string name="qs_show_brightness_summary">Pengaturan panel cahaya</string>
+    <string name="qs_brightness_position_bottom_title">Panel cahaya di bawah</string>
+    <string name="qs_brightness_position_bottom_summary">Menaruh panel cahaya di bawah</string>
+    <string name="qs_show_auto_brightness_title">Icon Pencerahan otomatis</string>
+    <string name="qs_show_auto_brightness_summary">Menampilkan tombol Kecerahan otomatis disamping panel cahaya</string>
+    <string name="qs_show_brightness_above_footer_title">Diatas Footer</string>
+    <string name="qs_show_brightness_above_footer_summary">Menampilkan cahaya di atas footer ( khusus panel cahaya di bawah )</string>
+
+    <!-- 4G LTE switch -->
+    <string name="show_fourg_title">Menampilkan 4G daripada LTE</string>
+    <string name="show_fourg_summary">Mengganti 4G dengan LTE</string>
+
+    <!-- VoLTE switch -->
+    <string name="volte_switch_title">VoLTE icon</string>
+    <string name="volte_switch_summary">Display VoLTE icon</string>
+    <string name="volte_icon_title">VoLTE icon</string>
+    <string name="volte_icon_summary">Menampilkan VoLTE icon</string>
+    <string name="volte_icon_style_title">Pilih VoLTE Icon</string>
+    <string name="volte_icon_vo">Vo Only Icon</string>
+    <string name="volte_icon_volte">VoLTE Icon</string>
+    <string name="volte_icon_oos">VoLTE OOS Icon</string>
+    <string name="volte_icon_hd">HD Icon</string>
+    
+    <!-- VoWiFi icon -->
+    <string name="vowifi_icon_title">VoWiFi icon</string>
+    <string name="vowifi_icon_enabled">VoWiFi icon dinyalakan</string>
+    <string name="vowifi_icon_disabled">VoWiFi icon dimatikan</string>
+    <string name="vowifi_icon_enabled_volte_disabled">VoWiFi daripada VoLTE icon</string>
+
+
+    <!-- Statusbar net monitor -->
+    <string name="net_monitor_category_title">Monitor kecepatan internet</string>
+    <string name="network_traffic_state_title">Menyalakan network monitor</string>
+    <string name="network_traffic_state_sb_title">Selalu menampilkan net monitor</string>
+    <string name="network_traffic_state_summary">Menampilkan kecepatan upload dan download di pengaturan cepat</string>
+    <string name="network_traffic_state_sb_summary">Selalu menampilkan monitor bahkan di status bar</string>
+    <string name="network_traffic_autohide_threshold_title">Sensifitas auto hide (KB/s)</string>
+
+    <!-- Volume panel on left switch -->
+    <string name="volume_panel_on_left_title">Tampilkan Pengaturan Volum di kiri</string>
+    
+</resources>
