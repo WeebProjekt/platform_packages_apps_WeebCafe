@@ -48,13 +48,14 @@
             android:fragment="com.weeb.settings.fragments.ButtonSettings"
             android:icon="@drawable/ic_weeb_settings_buttons"/>
 
-        <!-- Navigation Bar -->
+        <!-- Navigation Bar
         <com.weeb.settings.preferences.CardviewPreference
             android:key="navigationbar_category"
             android:title="@string/navbar_title"
             android:summary="@string/navbar_summary"
             android:fragment="com.weeb.settings.fragments.NavbarSettings"
             android:icon="@drawable/ic_weeb_settings_navbar"/>
+        -->
 
         <!-- Lock Screen -->
         <com.weeb.settings.preferences.CardviewPreference
@@ -80,21 +81,23 @@
             android:fragment="com.weeb.settings.fragments.GesturesSettings"
             android:icon="@drawable/ic_weeb_settings_gestures"/>
 
-        <!-- Notifications -->
+        <!-- Notifications
         <com.weeb.settings.preferences.CardviewPreference
             android:key="notifications_category"
             android:title="@string/notifications_title"
             android:summary="@string/notifications_summary"
             android:fragment="com.weeb.settings.fragments.NotificationSettings"
             android:icon="@drawable/ic_weeb_settings_notifications"/>
+        -->
 
-        <!-- Misc -->
+        <!-- Misc
         <com.weeb.settings.preferences.CardviewPreference
             android:key="misc_category"
             android:title="@string/misc_title"
             android:summary="@string/misc_summary"
             android:fragment="com.weeb.settings.fragments.MiscSettings"
             android:icon="@drawable/ic_weeb_settings_misc"/>
+        -->
 
         <!-- About -->
         <com.weeb.settings.preferences.CardviewPreference
