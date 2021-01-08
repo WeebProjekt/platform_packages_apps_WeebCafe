@@ -21,10 +21,5 @@
     android:summary="@string/button_summary"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
-    <com.weeb.settings.preferences.SystemSettingSwitchPreference
-        android:key="volume_panel_on_left"
-        android:title="@string/volume_panel_on_left_title"
-        android:defaultValue="false"
-        settings:controller="com.weeb.settings.utils.VolumePanelOnLeftPreferenceController"/>
 
 </PreferenceScreen>

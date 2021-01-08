@@ -21,25 +21,6 @@
     android:summary="@string/gestures_summary"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
-   <PreferenceCategory
-        android:key="double_tap_gestures_category"
-        android:title="@string/double_tap_gestures_category_title">
 
-    <com.weeb.settings.preferences.SystemSettingSwitchPreference
-        android:key="double_tap_sleep_gesture"
-            android:title="@string/double_tap_sleep_gesture_title"
-            android:defaultValue="false" />
-
-    <com.weeb.settings.preferences.SystemSettingSwitchPreference
-            android:key="double_tap_sleep_lockscreen"
-            android:title="@string/double_tap_sleep_lockscreen_title"
-            android:defaultValue="false" />
-    </PreferenceCategory>
-
-    <com.weeb.settings.preferences.SystemSettingSwitchPreference
-        android:key="three_finger_gesture"
-        android:title="@string/three_finger_gesture"
-        android:summary="@string/three_finger_gesture_summary"
-        android:defaultValue="false" />
 
 </PreferenceScreen>
