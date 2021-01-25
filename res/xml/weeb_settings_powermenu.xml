@@ -46,10 +46,10 @@
         android:title="@string/global_actions_lockdown"
         android:defaultValue="false" />
 
-    <com.weeb.settings.preferences.SystemSettingSwitchPreference
+    <!--com.weeb.settings.preferences.SystemSettingSwitchPreference
         android:key="global_actions_flashlight"
         android:title="@string/global_actions_flashlight"
-        android:defaultValue="false" />
+        android:defaultValue="false" /-->
 
     <com.weeb.settings.preferences.SystemSettingSwitchPreference
         android:key="global_actions_users"
